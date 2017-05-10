@@ -1,7 +1,5 @@
 /*
-  COSC2436 Lab 2, Instructor: Thayer
-  Name:
-  Semester:
+  Name:Travis Neel 
   Topic: Recursion and Iteration, comparing performance
 */
 #include <string>
